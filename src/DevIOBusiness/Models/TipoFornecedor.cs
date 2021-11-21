@@ -1,4 +1,4 @@
-﻿namespace AppMvcTreinamentoBasico.Models
+﻿namespace DevIO.Business.Models
 {
     public enum TipoFornecedor
     {

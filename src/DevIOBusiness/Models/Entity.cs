@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
-namespace AppMvcTreinamentoBasico.Models
+namespace DevIO.Business.Models
 {
     public abstract class Entity
     {
